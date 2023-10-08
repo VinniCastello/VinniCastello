@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinniCastello&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Castelo github stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinniCastello&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
