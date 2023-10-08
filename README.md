@@ -1,19 +1,25 @@
-<table>
-  <a href="https://github.com/vinnicastello">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Castelo;I'm+21+years+old;Studying+computer+networks;Be+Welcome+:%29)](https://git.io/typing-svg)
+
+<div align="center">
+    <a href="https://github.com/VinniCastello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnicastello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnicastello&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/color/2x/bootstrap.png" width="120" alt="Bootstrap">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/python.png" width="120" alt="Python">
-  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel">
-<img src="https://img.icons8.com/color/2x/git.png" width="120" alt="Git">
-<img src="https://img.icons8.com/color/2x/github--v1.png" width="120" alt="GitHub">
-<img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="120" alt="VSCode">
-<img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="120" alt="C++">
-<img src="https://img.icons8.com/color/2x/discord-logo.png" width="120" alt="Discord">
+</div>
 
-
-</table>
+<div align="center">
+    <a href="https://www.instagram.com/vn7_castelo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:cmp.1a.castelovinicius9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%233333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/vinicius-castelo-891967260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+    <a href="https://castelo.infinityfreeapp.com/Projeto/Portfolio/index.html" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a>
+</div>
+<div align="center">
+    <img src="https://img.icons8.com/color/2x/html-5.png" width="60" alt="HTML5">
+    <img src="https://img.icons8.com/color/2x/css3.png" width="60" alt="CSS3">
+    <img src="https://img.icons8.com/nolan/2x/javascript.png" width="60" alt="JavaScript">
+    <img src="https://img.icons8.com/color/2x/python.png" width="60" alt="Python">
+    <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60" alt="C++">
+    <img src="https://img.icons8.com/color/2x/git.png" width="60" alt="Git">
+    <img src="https://img.icons8.com/color/2x/github--v1.png" width="60" alt="GitHub">
+    <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="60" alt="VSCode">
+    <img src="https://img.icons8.com/color/2x/discord-logo.png" width="60" alt="Discord">
+</div>
