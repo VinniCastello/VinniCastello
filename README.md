@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Vinicius+Castelo;I'm+21+years+old;Studying+computer+networks;Be+Welcome+:%29)](https://git.io/typing-svg)
+
 <div align="center">
     <a href="https://github.com/VinniCastello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnicastello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,7 +12,7 @@
     <a href="https://www.linkedin.com/in/vinicius-castelo-891967260/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
     <a href="https://castelo.infinityfreeapp.com/Projeto/Portfolio/index.html" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank"></a>
 </div>
-<div>
+<div align="center">
     <img src="https://img.icons8.com/color/2x/html-5.png" width="60" alt="HTML5">
     <img src="https://img.icons8.com/color/2x/css3.png" width="60" alt="CSS3">
     <img src="https://img.icons8.com/nolan/2x/javascript.png" width="60" alt="JavaScript">
